@@ -1,0 +1,11 @@
+{
+	"title": "Juan G. Hurtado gym track",
+	"name": "gym",
+	"version": "0.0.1",
+	"author": "Juan G. Hurtado <juan.g.hurtado@gmail.com>",
+	"description": "Tracks Juan G. Hurtado gym progression",
+	"devDependencies": {
+		"grunt" : "~0.4.0",
+		"grunt-ftp-deploy" : "*"
+	}
+}
